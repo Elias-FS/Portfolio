@@ -1,5 +1,6 @@
 body {
-    background: rgb(70, 142, 236);
+    background-image: url(img/wallpaper.png);
+    background-size: cover;
     font: normal 15pt Arial;
 }
 
